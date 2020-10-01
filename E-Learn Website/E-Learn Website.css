@@ -1,0 +1,22 @@
+.Slider_img{
+    width: 100%;
+    height: 82vh;
+}
+
+
+
+#demo{
+    position: relative;
+}
+
+
+.text-block {
+    position: absolute;
+    top: 30%;
+    right: 70%;
+    color: white;
+  }
+
+.text-block p{
+    font-size: small;
+}  
