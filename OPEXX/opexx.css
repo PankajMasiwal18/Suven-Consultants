@@ -1,0 +1,38 @@
+  /*######################################################################################################### 
+         Slider Image and text
+##########################################################################################################*/
+
+.Slider_img{
+    width: 100%;
+    height: 90vh;
+}
+
+#demo{
+    position: relative;
+}
+
+.heading-block {
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    color: white;
+    text-align: center;
+  }
+
+  .text-block {
+    position: absolute;
+    top: 75%;
+    left: 30%;
+    color: white;
+    text-align: center;
+  }
+
+.text-block p{
+    font-size: medium;
+    font: 900;
+}  
+
+#readmore{
+    padding-top: 15px;
+    color: #333;
+}
