@@ -123,3 +123,32 @@
 .Footer_box i{
     margin-bottom: 2vh;
 }
+
+  /*######################################################################################################### 
+          Search --> Seacrch_div
+##########################################################################################################*/
+
+.Seacrch_div{
+    background-color: #5DBCD2;
+}
+
+.form-div{
+    padding-top: 3vh;
+}
+
+.Search-text-up li{
+    float: left;
+    margin-left: 20vw;
+}
+
+.Search-text-up a{
+    color: #ffffff;
+}
+
+.Search-text a:hover{
+    color: #333;
+}
+
+.Search-text-up{
+    margin-bottom: 5vh;
+}
