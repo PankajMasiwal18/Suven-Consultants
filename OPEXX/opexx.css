@@ -134,6 +134,7 @@
 
 .form-div{
     padding-top: 3vh;
+    padding-bottom: 3vh;
 }
 
 .Search-text-up li{
@@ -178,4 +179,19 @@
     color: blue;
     margin-top: 5vh;
     margin-bottom: 7vh;
+}
+
+  /*######################################################################################################### 
+          winner
+##########################################################################################################*/
+
+
+.winner_text{
+    margin-top: 10vh;
+}
+
+.winner_text p{
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 8vh;
 }
