@@ -1,0 +1,12 @@
+.EasySteps img{
+    width: 100%;
+}
+
+.EasySteps .container , .EasySteps .row{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.EasySteps .h6{
+    margin: auto auto;
+}
