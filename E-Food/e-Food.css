@@ -117,3 +117,11 @@
     color: #ffffff;
 }
 
+.Login_form{
+    padding-top: 35vh;
+    padding-bottom: 34vh;
+}
+
+.Login_form label{
+    color: #ffffff;
+}
