@@ -1,0 +1,99 @@
+/* ######################################################################################################
+                    Header Section CSS
+########################################################################################################*/
+.header-section{
+    background-image: url("codingback.jpg");
+    height: 443px;
+}
+.home-codingexamples span {
+    display: inline-block;
+    margin-right: 10px;
+    padding-right: 10px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #dc3545;
+}
+
+/* ######################################################################################################
+                    Search Section CSS
+########################################################################################################*/
+.search-warp{
+    background-color:#d82a4e;
+}
+.section-title{
+    text-align: center;
+    
+}
+.search-section {
+    margin-top: -105px;
+}
+.search-section .section-title h2 span {
+    display: inline-block;
+    background: #d82a4e;
+    padding: 20px 60px 10px;
+}
+.text-white{
+    color: white;
+    font-weight: 600;
+}
+.search-section .course-search-form {
+    background-color: transparent;
+    padding: 0;
+}
+.course-search-form{
+    text-align: center;
+    background: #fff;
+    margin-bottom: 40px;
+}
+/* ######################################################################################################
+                    Search Section Input text CSS
+########################################################################################################*/
+.course-search-form input[type=text], .course-search-form input[type=email] {
+    height: 56px;
+    width: 36.6%;
+    padding: 0 30px;
+    margin-right: 18px;
+    float: left;
+    border: none;
+    font-size: 14px;
+    background: #edf4f6;
+     
+}
+/* ######################################################################################################
+                    Search  Section button CSS
+########################################################################################################*/
+.course-search-form .site-btn {
+    min-width: 198px;
+    padding: 16px 10px;
+}
+.site-btn.btn-dark {
+    background: #000;
+}
+
+.site-btn {
+    display: inline-block;
+    text-align: center;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+    position: relative;
+    color: #fff;
+    cursor: pointer;
+    
+}
+/* ######################################################################################################
+                    Footer  Section button CSS
+########################################################################################################*/
+h5 {
+    font-size: 20px;
+    margin: 0px;
+    font-weight: 600;
+    color: rgb(71, 71, 71);
+}
+
+p {
+    font-size: 14.1px;
+    color: rgb(135, 135, 135);
+    line-height: 2.2;
+    font-weight: 500;
+}

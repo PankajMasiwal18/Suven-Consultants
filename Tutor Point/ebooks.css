@@ -1,0 +1,222 @@
+/* ######################################################################################################
+                    Header Section CSS
+########################################################################################################*/
+.header-section{
+    background-image: url("codingback.jpg");
+    height: 443px;
+}
+.home-codingexamples span {
+    display: inline-block;
+    margin-right: 10px;
+    padding-right: 10px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #dc3545;
+}
+/* ######################################################################################################
+                    Search Section CSS
+########################################################################################################*/
+.search-warp{
+    background-color:#d82a4e;
+}
+.section-title{
+    text-align: center;
+    
+}
+.search-section {
+    margin-top: -105px;
+}
+.search-section .section-title h2 span {
+    display: inline-block;
+    background: #d82a4e;
+    padding: 20px 60px 10px;
+}
+.text-white{
+    color: white;
+    font-weight: 600;
+}
+.search-section .course-search-form {
+    background-color: transparent;
+    padding: 0;
+}
+.course-search-form{
+    text-align: center;
+    background: #fff;
+    margin-bottom: 40px;
+}
+/* ######################################################################################################
+                    Search Section input CSS
+########################################################################################################*/
+.course-search-form input[type=text], .course-search-form input[type=email] {
+    height: 56px;
+    width: 36.6%;
+    padding: 0 30px;
+    margin-right: 18px;
+    float: left;
+    border: none;
+    font-size: 14px;
+    background: #edf4f6;
+     
+}
+/* ######################################################################################################
+                    Courses search button CSS
+########################################################################################################*/
+.course-search-form .site-btn {
+    min-width: 198px;
+    padding: 16px 10px;
+}
+.site-btn.btn-dark {
+    background: #000;
+}
+
+.site-btn {
+    display: inline-block;
+    text-align: center;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+    position: relative;
+    color: #fff;
+    cursor: pointer;
+}
+/* ######################################################################################################
+                    New Registration CSS
+########################################################################################################*/
+
+.spad {
+    padding-top: 115px;
+}
+.contact-form-warp {
+    background: #d82a4e;
+    padding: 45px 47px;
+}
+.contact-form-warp .section-title {
+    padding: 0 15px;
+    margin-bottom: 50px;
+}
+.section-title h2 {
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+.contact-form-warp .contact-form {
+    padding: 69px 40px 47px;
+}
+.signup-form, .contact-form {
+    background: #fff;
+}
+.signup-form input[type=text], .signup-form input[type=email], .signup-form textarea, .contact-form input[type=text], .contact-form input[type=email], .contact-form textarea {
+    height: 57px;
+    width: 100%;
+    padding: 0 30px;
+    margin-bottom: 27px;
+    float: left;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    background: #edf4f6;
+}
+/* ######################################################################################################
+                    New Registration Forrward button CSS
+########################################################################################################*/
+.signup-form .site-btn, .contact-form .site-btn {
+    padding: 17px 10px;
+}
+.site-btn {
+    display: inline-block;
+    min-width: 196px;
+    text-align: center;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+    position: relative;
+    color: #fff;
+    cursor: pointer;
+    background: #d82a4e;
+}
+/* ######################################################################################################
+                  Registeration and  Contact info CSS
+########################################################################################################*/
+.contact-info-area {
+    padding-top: 60px;
+}
+.contact-info-area .section-title {
+    margin-bottom: 80px;
+}
+.section-title h2 {
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    color: #474747;
+}
+
+.search-section .section-title h2 span {
+    display: inline-block;
+    background: #d82a4e;
+    padding: 20px 60px 10px;
+    color: white;
+}
+h4 {
+    font-size: 24px;
+    margin: 0;
+    font-weight: 600;
+    color: #474747;
+}
+/* ######################################################################################################
+                    Contact Info  Phone CSS
+########################################################################################################*/
+.contact-info-area .phone-number {
+    margin-bottom: 100px;
+}
+.contact-info-area .phone-number span {
+    font-size: 18px;
+    font-weight: 700;
+    color: #d82a4e;
+    display: block;
+    margin-bottom: 5px;
+}
+.contact-info-area .phone-number h2 {
+    color: #646464;
+    display: inline-block;
+    position: relative;
+    padding: 0 0 10px;
+    padding-right: 12px;
+}
+.contact-info-area .contact-list {
+    list-style: none;
+    padding-left: 50px;
+}
+.contact-info-area .contact-list li {
+    margin-bottom: 27px;
+    position: relative;
+    padding-left: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #878787;
+}
+.contact-info-area .social-links {
+    padding-top: 60px;
+    padding-left: 50px;
+}
+.contact-info-area .social-links a {
+    font-size: 14px;
+    color: #707070;
+    margin-right: 30px;
+}
+
+/* ######################################################################################################
+                    Footer Section CSS
+########################################################################################################*/
+h5 {
+    font-size: 20px;
+    margin: 0px;
+    font-weight: 600;
+    color: rgb(71, 71, 71);
+}
+
+p {
+    font-size: 14.1px;
+    color: rgb(135, 135, 135);
+    line-height: 2.2;
+    font-weight: 500;
+}
