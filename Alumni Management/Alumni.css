@@ -1,6 +1,9 @@
+/* ####################################################################################################################
+    Header
+######################################################################################################################*/
+
 .WELCOME , .Header
 {
-    /* border: 2px solid red; */
     background-color: rgb(224, 221, 221);
     padding-top: 5vh;
 }
@@ -11,26 +14,10 @@
     color: #3B3B3B;
 }
 
-/* .text , .search
-{
-    padding-top: 5vh;
-} */
 .Header .header_inner
 {
     background-color: #3B3B3B;
 }
-
-.Header li
-{
-    color: white;
-}
-
-.Header li:hover
-{
-    color: red;
-}
-
-.nav{margin: 0;}
 
 .nav-item{
     font-size: 13px;
@@ -44,7 +31,6 @@
 .Header .fa
 {
     padding: 10px 10px;
-    margin-left: 2vw;
     width: 4vw;
     color:white;
     text-align: center;
@@ -54,3 +40,35 @@
 {
     background: #FF5454;
 }
+
+/* ####################################################################################################################
+    Slider
+######################################################################################################################*/
+
+.img_slider img{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+
+.img_slider div{
+    position: relative
+}
+
+.carousel-item h2{
+    margin-top: 30vh;
+    font-size: 10vh;
+}
+
+.carousel-item p{
+    margin-top: 10vh;
+    font-size: larger;
+}
+
+.carousel-item button
+{
+    color: white;
+    border: 2px solid red;
+    margin-top: 10vh;
+}
+
