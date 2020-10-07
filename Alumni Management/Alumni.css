@@ -1,0 +1,56 @@
+.WELCOME , .Header
+{
+    /* border: 2px solid red; */
+    background-color: rgb(224, 221, 221);
+    padding-top: 5vh;
+}
+
+.WELCOME h2
+{
+    font-family: 'texgyreadventorregular';
+    color: #3B3B3B;
+}
+
+/* .text , .search
+{
+    padding-top: 5vh;
+} */
+.Header .header_inner
+{
+    background-color: #3B3B3B;
+}
+
+.Header li
+{
+    color: white;
+}
+
+.Header li:hover
+{
+    color: red;
+}
+
+.nav{margin: 0;}
+
+.nav-item{
+    font-size: 13px;
+    padding: 5px 5px;
+}
+
+.nav-item:hover{
+    background: #FF5454;
+}
+
+.Header .fa
+{
+    padding: 10px 10px;
+    margin-left: 2vw;
+    width: 4vw;
+    color:white;
+    text-align: center;
+}
+
+.Header .fa:hover
+{
+    background: #FF5454;
+}
