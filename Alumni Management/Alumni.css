@@ -41,6 +41,16 @@
     background: #FF5454;
 }
 
+.search
+{
+    padding-top: 1vh;
+}
+
+.text , .About_Us_text
+{
+    padding-top: 1vh;
+}
+
 /* ####################################################################################################################
     Slider
 ######################################################################################################################*/
@@ -160,4 +170,52 @@
     text-align: center;
     font-size: x-small;
     padding-top: 4vh;
+}
+
+/* ####################################################################################################################
+    About Us
+######################################################################################################################*/
+
+.About_Us
+{
+    width: 100%;
+    height: 30vh;
+}
+
+.About_Us h2{
+    font-family: 'texgyreadventorregular';
+}
+
+.About_Us img{
+    position: absolute;
+}
+
+.About_Us_text{
+    position: relative;
+    padding-top: 4.2vh;
+}
+
+.About_Us_Header{
+    position: relative;
+}
+
+.About_Us_Header .About_Us_header_inner
+{
+    position: relative;
+    width: 100%;
+    margin-top: 9.2vh;
+    background-color: #3B3B3B;
+}
+
+.About_Us_Header .fa
+{
+    padding: 10px 10px;
+    width: 4vw;
+    color:white;
+    text-align: center;
+}
+
+.About_Us_Header .fa:hover
+{
+    background: #FF5454;
 }
