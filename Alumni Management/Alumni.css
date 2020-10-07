@@ -51,18 +51,29 @@
     position: absolute;
 }
 
+.img_slider{
+    position: absolute;
+    width: 100%;
+}
+
 .img_slider div{
+    position: relative
+}
+
+.carousel-item
+{
     position: relative
 }
 
 .carousel-item h2{
     margin-top: 30vh;
     font-size: 10vh;
+    position: relative
 }
 
 .carousel-item p{
     margin-top: 10vh;
-    font-size: larger;
+    font-size: large;
 }
 
 .carousel-item button
@@ -70,5 +81,39 @@
     color: white;
     border: 2px solid red;
     margin-top: 10vh;
+}
+
+/* ####################################################################################################################
+    details_1
+######################################################################################################################*/
+
+
+.detail_1
+{
+    position: relative;
+    margin-top: 100vh;
+    border: 1px solid ;
+    background-color:  rgb(224, 221, 221);
+}
+
+.detail_1_row div
+{
+    padding-bottom: 2vh;
+}
+
+.detail_1_row
+{
+    margin-top: 10vh;
+    margin-bottom: 8vh;
+    text-align: center;
+}
+
+.detail_1_row h3{
+    margin-top: 5vh;
+    font-size: large;
+}
+
+.detail_1_row p{
+    font-size: x-small;
 }
 
