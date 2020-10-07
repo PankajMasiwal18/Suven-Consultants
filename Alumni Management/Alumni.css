@@ -134,6 +134,8 @@
 .headmaster
 {
     position: relative;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
     background-color:  rgb(224, 221, 221);
 }
 
@@ -145,7 +147,7 @@
 
 .headmaster_img img{
     width: 90%;
-    height: 50vh;
+    height: 35vh;
 }
 
 .headmaster_text
@@ -249,4 +251,17 @@
 {
     padding-top: 4vh;
     padding-bottom: 4vh;
+}
+
+.About_Us_about{
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.About_Us_about p{
+    font-size: small;
+}
+
+.About_Us_about h2{
+    font-family: 'texgyreadventorregular';
 }
