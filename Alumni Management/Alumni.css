@@ -24,7 +24,7 @@
     padding: 5px 5px;
 }
 
-.nav-item:hover{
+.li_tag .nav-item:hover{
     background: #FF5454;
 }
 
@@ -260,8 +260,35 @@
 
 .About_Us_about p{
     font-size: small;
+    font-family: 'texgyreadventorregular';
 }
 
 .About_Us_about h2{
     font-family: 'texgyreadventorregular';
+}
+
+.diff_icon li
+{
+    float: left;
+    padding-right: 6.3vw;
+    color: gray;
+}
+
+.tag
+{
+    font-size: xx-small;
+}
+
+.tag div{
+    padding-top: 3vh;
+}
+
+.news_letter
+{
+    padding-top: 5vh;
+}
+
+.news_letter button
+{
+    margin-top: 2vh;
 }
