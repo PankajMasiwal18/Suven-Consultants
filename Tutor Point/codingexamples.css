@@ -2,7 +2,7 @@
                     Header Section CSS
 ########################################################################################################*/
 .header-section{
-    background-image: url("codingback.jpg");
+    background-image: url("Images/codingback.jpg");
     height: 443px;
 }
 .home-codingexamples span {

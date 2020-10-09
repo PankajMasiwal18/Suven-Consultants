@@ -2,7 +2,7 @@
                     Header Background 
 ########################################################################################################*/
 .tutor-header{
-    background-image: url("back.jpg");
+    background-image: url("Images/back.jpg");
 }
 /* ######################################################################################################
                     Header Quote CSS
@@ -48,8 +48,8 @@
 /* ######################################################################################################
                     Middle Section Different Courses CSS
 ########################################################################################################*/
-.spad {
-    padding-top: 115px;
+.categories-section {
+    padding-top: 50px;
     padding-bottom: 115px;
 }
 .categories-section .container {
@@ -71,31 +71,31 @@ h4 {
     font-weight: 600;
     color: #474747;
 }
-.categorie-item .ci-thumb {
-    background-size: cover;
-    height: 148px;
-    transition: all 0.2s;
-}
+
 .set-bg {
     background-repeat: no-repeat;
     background-position: top center;
 }
-.categorie-item .ci-text {
+.categorie-item .cat-text {
     padding: 40px 35px;
 }
-.categorie-item .ci-text h5 {
+.categorie-item .cat-text h5 {
     margin-bottom: 5px;
-}
-h5 {
     font-size: 20px;
     font-weight: 600;
     color: #474747;
 }
-.categorie-item .ci-text span {
+
+.categorie-item .cat-text span {
     font-size: 18px;
     font-weight: 600;
     color: #d82a4e;
 }
+.categorie-item :hover {
+    background-color:#e072c9;
+}
+
+
 /* ######################################################################################################
                     Middle Section Search Courses Form CSS
 ########################################################################################################*/
