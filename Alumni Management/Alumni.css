@@ -1,0 +1,326 @@
+/* ####################################################################################################################
+    Header
+######################################################################################################################*/
+
+.WELCOME , .Header
+{
+    background-color: rgb(224, 221, 221);
+    padding-top: 5vh;
+}
+
+.WELCOME h2
+{
+    font-family: 'texgyreadventorregular';
+    color: #3B3B3B;
+}
+
+.Header .header_inner
+{
+    background-color: #3B3B3B;
+}
+
+.nav-item{
+    font-size: 13px;
+    padding: 5px 5px;
+}
+
+.li_tag .nav-item:hover{
+    background: #FF5454;
+}
+
+.Header .fa
+{
+    padding: 10px 10px;
+    width: 4vw;
+    color:white;
+    text-align: center;
+}
+
+.Header .fa:hover
+{
+    background: #FF5454;
+}
+
+.search
+{
+    padding-top: 1vh;
+}
+
+.text , .About_Us_text
+{
+    padding-top: 1vh;
+}
+
+/* ####################################################################################################################
+    Slider
+######################################################################################################################*/
+
+.img_slider img{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+
+.img_slider{
+    position: absolute;
+    width: 100%;
+}
+
+.img_slider div{
+    position: relative
+}
+
+.carousel-item
+{
+    position: relative
+}
+
+.carousel-item h2{
+    margin-top: 30vh;
+    font-size: 10vh;
+    position: relative
+}
+
+.carousel-item p{
+    margin-top: 10vh;
+    font-size: large;
+}
+
+.carousel-item button
+{
+    color: white;
+    border: 2px solid red;
+    margin-top: 10vh;
+}
+
+/* ####################################################################################################################
+    details_1
+######################################################################################################################*/
+
+
+.detail_1
+{
+    position: relative;
+    margin-top: 100vh;
+    border: 1px solid white;
+    background-color:  rgb(224, 221, 221);
+}
+
+.detail_1_row div
+{
+    padding-bottom: 2vh;
+}
+
+.detail_1_row
+{
+    margin-top: 10vh;
+    margin-bottom: 8vh;
+    text-align: center;
+}
+
+.detail_1_row h3{
+    margin-top: 5vh;
+    font-size: large;
+}
+
+.detail_1_row p{
+    font-size: x-small;
+}
+
+/* ####################################################################################################################
+    headmaster
+######################################################################################################################*/
+
+.headmaster
+{
+    position: relative;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+    background-color:  rgb(224, 221, 221);
+}
+
+.headmaster_img
+{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.headmaster_img img{
+    width: 90%;
+    height: 35vh;
+}
+
+.headmaster_text
+{
+    margin-top: 10vh;
+}
+
+.headmaster_text h2
+{
+    font-size: larger;
+}
+
+.headmaster_text p{
+    font-size: xx-small;
+}
+
+/* ####################################################################################################################
+    footer
+######################################################################################################################*/
+
+.footer{
+    text-align: center;
+    font-size: x-small;
+    padding-top: 4vh;
+}
+
+/* ####################################################################################################################
+    About Us header
+######################################################################################################################*/
+
+.About_Us
+{
+    width: 100%;
+    height: 30vh;
+}
+
+.About_Us h2{
+    font-family: 'texgyreadventorregular';
+}
+
+.About_Us img{
+    position: absolute;
+}
+
+.About_Us_text{
+    position: relative;
+    padding-top: 4.2vh;
+}
+
+.About_Us_Header{
+    position: relative;
+}
+
+.About_Us_Header .About_Us_header_inner
+{
+    position: relative;
+    width: 100%;
+    margin-top: 9.2vh;
+    background-color: #3B3B3B;
+}
+
+.About_Us_Header .fa
+{
+    padding: 10px 10px;
+    width: 4vw;
+    color:white;
+    text-align: center;
+}
+
+.About_Us_Header .fa:hover
+{
+    background: #FF5454;
+}   
+
+/* ####################################################################################################################
+    About Us Artical
+######################################################################################################################*/
+
+.artical p{
+    font-size: xx-small;
+}
+
+.artical_1 , .artical_2 , .artical_3 , .artical_4
+{
+    padding-top: 4vh;
+    padding-bottom: 3vh;
+}
+
+.artical h2
+{
+    padding-top: 4vh;
+    font-family: 'texgyreadventorregular';
+}
+
+.artical
+{
+    background-color:  rgb(224, 221, 221);
+}
+
+.page
+{
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+}
+
+.About_Us_about{
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.About_Us_about p{
+    font-size: small;
+    font-family: 'texgyreadventorregular';
+}
+
+.About_Us_about h2{
+    font-family: 'texgyreadventorregular';
+}
+
+.diff_icon li
+{
+    float: left;
+    padding-right: 6.3vw;
+    color: gray;
+}
+
+.tag
+{
+    font-size: xx-small;
+}
+
+.tag div{
+    padding-top: 3vh;
+}
+
+.news_letter
+{
+    padding-top: 5vh;
+}
+
+.news_letter button
+{
+    margin-top: 2vh;
+}
+
+/* ###############################################################################################################################################
+    Find_Adress
+############################################################################################################################################################*/
+
+.Find_Adress
+{
+    padding-top: 8vh;
+    padding-bottom: 6vh;
+    background-color:  rgb(224, 221, 221);
+}
+
+.Find_Adress span , .Find_Adress label
+{
+    font-size: x-small;
+}
+
+.Find_Adress h4{
+    font-family: 'texgyreadventorregular';
+}
+
+/* ###############################################################################################################################################
+    Map
+############################################################################################################################################################*/
+
+.Map
+{
+    padding-top: 8vh;
+    padding-bottom: 8vh;
+    background-color:  rgb(224, 221, 221);
+    border-bottom: .5px solid white;
+}
