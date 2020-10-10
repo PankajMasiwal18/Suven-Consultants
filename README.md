@@ -15,3 +15,7 @@
 ![Opexx-2](https://user-images.githubusercontent.com/69577228/95649361-c2b9f280-0afa-11eb-91fc-be3caed1afc8.PNG)
 ![Opexx-3](https://user-images.githubusercontent.com/69577228/95649367-cbaac400-0afa-11eb-9e3b-84d46aa398a1.PNG)
 ![Opexx-4](https://user-images.githubusercontent.com/69577228/95649377-d2d1d200-0afa-11eb-832e-ca2236d074e0.PNG)
+
+![Alumini-1](https://user-images.githubusercontent.com/69577228/95649687-61931e80-0afc-11eb-9234-53e5d94bc442.PNG)
+![Alumini-2](https://user-images.githubusercontent.com/69577228/95649691-68219600-0afc-11eb-9191-abd2f51a02f0.PNG)
+![Alumini-3](https://user-images.githubusercontent.com/69577228/95649697-6c4db380-0afc-11eb-9e56-70d8d8933066.PNG)
